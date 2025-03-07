@@ -5,7 +5,7 @@ import {
   DropdownMenuContent,
   DropdownMenuItem,
   DropdownMenuTrigger,
-} from "@radix-ui/react-dropdown-menu";
+} from "../ui/dropdown-menu";
 import { Code, FileCode, GitBranch, Plus, Terminal, Wand2 } from "lucide-react";
 
 interface QuickActionsProps {
